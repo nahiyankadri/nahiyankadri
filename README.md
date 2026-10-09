@@ -47,41 +47,45 @@
 ---
 
 
+
 ## 🚀 Featured Projects
 
-### 🎒 0/1 Knapsack Problem
-An implementation of the classic optimization problem using programming and algorithmic problem-solving techniques.
+### ❤️ Explainable Deep Learning for Early MI Prediction
+Research-focused project exploring explainable deep learning approaches for early prediction of Myocardial Infarction (heart attack) in high-risk patients, with the goal of supporting interpretable and data-driven healthcare decisions.
 
-**Tech:** Python
+**Focus:** Deep Learning • Explainable AI (XAI) • Healthcare AI
 
-### ⏳ Countdown System
-A countdown-based application built to practice programming logic and time-based operations.
+**Status:** Research in Progress
 
-**Tech:** Python
+### 📊 Heart Disease Exploratory Data Analysis
+Exploring heart disease data to identify patterns, relationships, and useful insights through exploratory data analysis.
+
+**Tech:** Python • Pandas • Data Visualization
 
 ### 🌫️ Air Quality Analysis
-Exploratory analysis of air quality data using R and RStudio to practice statistical analysis and data handling.
+Analyzing air quality data using R and RStudio to practice statistical analysis and data exploration.
 
-**Tech:** R, RStudio
+**Tech:** R • RStudio
 
-### ❤️ Heart Disease Exploratory Data Analysis
-An exploratory data analysis project focused on understanding patterns and relationships in heart disease data.
+### 🎒 0/1 Knapsack Problem
+Implementing the classic optimization problem to practice algorithmic thinking and problem-solving.
 
-**Tech:** Python, Pandas, Data Visualization
+**Tech:** Python
 
 ### 🎓 Course Registration & Prerequisite Validation System
-A system designed to validate course prerequisites and enforce a maximum credit limit.
+A system designed to validate course prerequisites and enforce course credit limits.
 
-**Tech:** Python, Object-Oriented Programming
+**Tech:** Python • Object-Oriented Programming
+
+### ⏳ Countdown System
+A countdown-based programming project focused on application logic and time-based operations.
+
+**Tech:** Python
 
 ### 🎮 Quiz Game Application
 An interactive quiz application developed to practice programming fundamentals and application logic.
 
 **Tech:** Python
-
----
-
-*More projects coming soon as I continue learning and building.*
 
 ---
 
