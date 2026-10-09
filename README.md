@@ -62,6 +62,13 @@
 *More projects coming soon as I continue learning and building.*
 
 
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahiyankadri&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -69,21 +76,30 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahiyankadri&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </p>
 ---
-
 ## 🎯 Current Goals
 
-* Strengthen Python and Data Structures & Algorithms.
-* Develop practical Machine Learning and Deep Learning projects.
-* Build a consistent and well-documented GitHub portfolio.
-* Explore AI research, especially Explainable AI and healthcare applications.
-* Prepare for competitive AI/ML internships.
+* 🚀 **Build Industry-Level Expertise:** Develop strong foundations in Python, Data Structures & Algorithms, Mathematics, and Computer Science to prepare for engineering roles at leading global technology companies.
+* 🧠 **Become an AI/ML Engineer:** Build practical expertise in Machine Learning, Deep Learning, Data Science, and scalable intelligent systems.
+* 🔬 **Pursue Meaningful AI Research:** Explore Explainable AI, Healthcare AI, and Deep Learning to develop reliable, interpretable, and impactful AI solutions.
+* 🏥 **Develop Research-Driven Projects:** Work on evidence-based AI projects, including early myocardial infarction (heart attack) risk prediction, with a focus on explainability and responsible AI.
+* 🌍 **Contribute to Open Source:** Collaborate with developers and researchers worldwide, contribute to meaningful projects, and learn from real-world software engineering practices.
+* 💻 **Build a Strong Technical Portfolio:** Create well-documented, reproducible projects that demonstrate problem-solving, clean code, experimentation, and research skills.
+* 🎯 **Prepare for Global Opportunities:** Work toward AI/ML internships and engineering or research opportunities at leading technology companies, including Google.
+* 📚 **Commit to Continuous Learning:** Strengthen my foundations in algorithms, statistics, linear algebra, research methodology, and technical communication to grow as an engineer and researcher.
 
 ---
 
-## 🌐 Connect With Me
+## ## 🤝 Let's Connect
 
-* 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-* 💼 LinkedIn: YOUR_LINKEDIN_URL
+<p align="left">
+  <a href="https://github.com/nahiyankadri">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/kadrilogno/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 
 ---
 
