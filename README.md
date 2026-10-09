@@ -11,7 +11,7 @@ I'm passionate about exploring how AI can solve real-world problems, particularl
 * 🧩 **Current Focus:** Python, Data Structures & Algorithms, and Data Science
 * 🔬 **Research Direction:** Explainable Deep Learning for Early MI Risk Prediction
 * 🤝 **Leadership:** President of GENESIS — Green Neural & Synaptic Intelligence Society
-* 🎯 **Goal:** Grow into an AI engineer who builds reliable, useful, and responsible AI systems
+* 🎯 **Goal:** Build reliable, useful, and responsible AI systems through engineering and research
 
 [![GitHub](https://img.shields.io/badge/GitHub-nahiyankadri-181717?style=for-the-badge\&logo=github)](https://github.com/nahiyankadri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/kadrilogno/)
@@ -22,7 +22,7 @@ I'm passionate about exploring how AI can solve real-world problems, particularl
 
 * Strengthening Python programming and problem-solving skills
 * Practicing Data Structures & Algorithms
-* Learning machine learning and deep learning fundamentals
+* Developing skills in data analysis and machine learning
 * Exploring interpretable AI for healthcare risk prediction
 * Improving code quality, documentation, and GitHub project organization
 * Building a portfolio focused on practical engineering and research
@@ -31,36 +31,37 @@ I'm passionate about exploring how AI can solve real-world problems, particularl
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square\&logo=r\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
-### Data Science & Analysis
+### 📊 Data Science & Analysis
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-![Statistics](https://img.shields.io/badge/Probability%20%26%20Statistics-6C5CE7?style=flat-square)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-2E8B57?style=flat-square)
+![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-6C5CE7?style=flat-square)
+![Statistics](https://img.shields.io/badge/Probability_%26_Statistics-008B8B?style=flat-square)
 
-### Development Tools
+### ⚙️ Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square\&logo=rstudio\&logoColor=white)
 
-### Currently Learning
+### 🌱 Currently Learning
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-in%20progress-8A2BE2?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-in%20progress-8A2BE2?style=flat-square)
-![Explainable AI](https://img.shields.io/badge/Explainable%20AI-in%20progress-8A2BE2?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Learning-8A2BE2?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-Learning-8A2BE2?style=flat-square)
+![Explainable AI](https://img.shields.io/badge/Explainable_AI-Learning-8A2BE2?style=flat-square)
 
 ---
 
 ## 🚀 Featured Projects
 
-I work on academic programming projects, algorithmic problem-solving, and data analysis as I develop my engineering and AI skills.
+Academic projects, algorithmic problem-solving, and data analysis projects that reflect my ongoing development in programming and AI.
 
 <table>
   <tr>
@@ -80,13 +81,13 @@ I work on academic programming projects, algorithmic problem-solving, and data a
       <strong>Technologies:</strong><br/>
       R · RStudio · Statistics
       <br/><br/>
-      <strong>Focus:</strong> Environmental data
+      <strong>Focus:</strong> Environmental data analysis
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🎒 0/1 Knapsack Problem</h3>
-      An algorithmic optimization problem involving item selection under a capacity constraint.
+      An optimization problem involving item selection under a limited capacity.
       <br/><br/>
       <strong>Concepts:</strong><br/>
       Algorithms · Optimization · Dynamic Programming
@@ -95,12 +96,12 @@ I work on academic programming projects, algorithmic problem-solving, and data a
     </td>
     <td width="50%" valign="top">
       <h3>🎓 Course Registration System</h3>
-      An academic registration system that validates course prerequisites and enforces a 15-credit limit.
+      An academic registration system that validates prerequisites and enforces a 15-credit limit.
       <br/><br/>
       <strong>Concepts:</strong><br/>
       Object-Oriented Programming · Validation Logic
       <br/><br/>
-      <strong>Focus:</strong> Application logic
+      <strong>Focus:</strong> Software design fundamentals
     </td>
   </tr>
   <tr>
@@ -129,7 +130,7 @@ I work on academic programming projects, algorithmic problem-solving, and data a
 
 #### Explainable Deep Learning for Early Myocardial Infarction (MI) Risk Prediction
 
-Exploring how interpretable deep learning methods could support early MI risk prediction in high-risk populations.
+Exploring how interpretable deep learning methods could support early myocardial infarction risk prediction in high-risk populations.
 
 **Research interests:** Healthcare AI · Predictive Modeling · Deep Learning · Explainable AI
 
@@ -162,9 +163,25 @@ Exploring how interpretable deep learning methods could support early MI risk pr
 
 ## 🤝 Leadership & Community
 
-**President — GENESIS (Green Neural & Synaptic Intelligence Society)**
+### 🧠 President — GENESIS
 
-Contributing to the student AI community through leadership, collaboration, and activities that encourage learning and engagement in Artificial Intelligence and Data Science.
+**Green Neural & Synaptic Intelligence Society**
+*Green University of Bangladesh · February 2026 – Present*
+
+Leading a student community focused on Artificial Intelligence and Data Science, encouraging collaboration, technical learning, and engagement within the department.
+
+### 📋 Organizing Secretary — GENESIS
+
+**Green Neural & Synaptic Intelligence Society**
+*September 2025 – February 2026*
+
+Contributed to student engagement, event coordination, and organizational activities supporting the AI and Data Science community.
+
+### 💻 Executive Member — GUB Competitive Programming Community
+
+*November 2025 – May 2026*
+
+Participated in a competitive programming community focused on problem-solving, algorithmic thinking, and programming practice.
 
 ---
 
@@ -172,7 +189,7 @@ Contributing to the student AI community through leadership, collaboration, and 
 
 My goal is to become an AI engineer who understands the fundamentals behind the tools I use, writes reliable code, evaluates models critically, and develops practical solutions to meaningful real-world problems.
 
-I'm working toward this through consistent algorithm practice, hands-on projects, research exploration, and continuous improvement in software engineering and AI.
+I'm working toward this through consistent algorithm practice, hands-on projects, research exploration, leadership, and continuous improvement in software engineering and AI.
 
 ---
 
