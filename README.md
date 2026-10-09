@@ -1,7 +1,6 @@
 # Hi, I'm Nahiyan Kadri Logno 👋
 
-### AI & Data Science Undergraduate | Aspiring AI Engineer | Python Developer
-
+### AI & Data Science Undergraduate | Aspiring AI/ML Engineer | Building Data-Driven Solutions
 ---
 
 ## 🧑‍💻 About Me
