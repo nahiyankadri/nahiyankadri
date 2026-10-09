@@ -47,47 +47,19 @@
 ---
 
 
+### 📂 Featured Projects
 
-## 🚀 Featured Projects
+| Project | Description |
+|---|---|
+| ❤️ [Explainable Deep Learning for Early MI Prediction](YOUR_MI_REPOSITORY_LINK) | Research project exploring explainable deep learning for early MI prediction. |
+| 📊 [Heart Disease EDA](YOUR_HEART_EDA_REPOSITORY_LINK) | Exploratory analysis of heart disease data. |
+| 🌫️ [Air Quality Analysis](YOUR_AIR_QUALITY_REPOSITORY_LINK) | Statistical data analysis using R and RStudio. |
+| 🎒 [0/1 Knapsack](YOUR_KNAPSACK_REPOSITORY_LINK) | An algorithmic problem-solving project. |
+| 🎓 [Course Registration System](YOUR_COURSE_REGISTRATION_REPOSITORY_LINK) | Course prerequisite validation and credit-limit management. |
+| ⏳ [Countdown System](YOUR_COUNTDOWN_REPOSITORY_LINK) | A countdown-based programming project. |
+| 🎮 [Quiz Game](YOUR_QUIZ_REPOSITORY_LINK) | A quiz application built to practice programming. |
 
-### ❤️ Explainable Deep Learning for Early MI Prediction
-Research-focused project exploring explainable deep learning approaches for early prediction of Myocardial Infarction (heart attack) in high-risk patients, with the goal of supporting interpretable and data-driven healthcare decisions.
-
-**Focus:** Deep Learning • Explainable AI (XAI) • Healthcare AI
-
-**Status:** Research in Progress
-
-### 📊 Heart Disease Exploratory Data Analysis
-Exploring heart disease data to identify patterns, relationships, and useful insights through exploratory data analysis.
-
-**Tech:** Python • Pandas • Data Visualization
-
-### 🌫️ Air Quality Analysis
-Analyzing air quality data using R and RStudio to practice statistical analysis and data exploration.
-
-**Tech:** R • RStudio
-
-### 🎒 0/1 Knapsack Problem
-Implementing the classic optimization problem to practice algorithmic thinking and problem-solving.
-
-**Tech:** Python
-
-### 🎓 Course Registration & Prerequisite Validation System
-A system designed to validate course prerequisites and enforce course credit limits.
-
-**Tech:** Python • Object-Oriented Programming
-
-### ⏳ Countdown System
-A countdown-based programming project focused on application logic and time-based operations.
-
-**Tech:** Python
-
-### 🎮 Quiz Game Application
-An interactive quiz application developed to practice programming fundamentals and application logic.
-
-**Tech:** Python
-
----
+*More projects coming soon as I continue learning and building.*
 
 
 ## 📊 GitHub Statistics
