@@ -46,18 +46,42 @@
 
 ---
 
-## 📂 Featured Projects
 
-| Project                       | Description                                                     |
-| ----------------------------- | --------------------------------------------------------------- |
-| 🎒 0/1 Knapsack               | An implementation of the classic optimization problem.          |
-| ⏳ Countdown System            | A countdown-based programming project.                          |
-| 🌫️ Air Quality Analysis      | Exploring air quality data using R and RStudio.                 |
-| ❤️ Heart Disease EDA          | Exploring heart disease data through exploratory data analysis. |
-| 🎓 Course Registration System | A system for managing course registration and prerequisites.    |
-| 🎮 Quiz Game Application      | A programming project built around quiz-based interactions.     |
+## 🚀 Featured Projects
 
-*Project descriptions and technologies should be updated to match each repository's actual implementation.*
+### 🎒 0/1 Knapsack Problem
+An implementation of the classic optimization problem using programming and algorithmic problem-solving techniques.
+
+**Tech:** Python
+
+### ⏳ Countdown System
+A countdown-based application built to practice programming logic and time-based operations.
+
+**Tech:** Python
+
+### 🌫️ Air Quality Analysis
+Exploratory analysis of air quality data using R and RStudio to practice statistical analysis and data handling.
+
+**Tech:** R, RStudio
+
+### ❤️ Heart Disease Exploratory Data Analysis
+An exploratory data analysis project focused on understanding patterns and relationships in heart disease data.
+
+**Tech:** Python, Pandas, Data Visualization
+
+### 🎓 Course Registration & Prerequisite Validation System
+A system designed to validate course prerequisites and enforce a maximum credit limit.
+
+**Tech:** Python, Object-Oriented Programming
+
+### 🎮 Quiz Game Application
+An interactive quiz application developed to practice programming fundamentals and application logic.
+
+**Tech:** Python
+
+---
+
+*More projects coming soon as I continue learning and building.*
 
 ---
 
