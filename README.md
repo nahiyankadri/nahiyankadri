@@ -4,32 +4,38 @@
 
 I'm an Artificial Intelligence and Data Science undergraduate at **Green University of Bangladesh**, building a strong foundation in programming, algorithms, data analysis, and machine learning.
 
-I'm passionate about exploring how AI can solve real-world problems, particularly through **Explainable AI, healthcare applications, and data-driven decision-making**.
+I'm passionate about solving real-world problems through **Artificial Intelligence, Machine Learning, Explainable AI, and healthcare applications**. My long-term goal is to become a skilled AI engineer and earn an **AI/ML engineering internship at Google or another leading Big Tech company**.
 
 * 🎓 **Field:** Artificial Intelligence & Data Science
-* 🤖 **Interests:** Machine Learning, Explainable AI, Healthcare AI
-* 🧩 **Current Focus:** Python, Data Structures & Algorithms, and Data Science
-* 🔬 **Research Direction:** Explainable Deep Learning for Early MI Risk Prediction
+* 💻 **Programming Languages:** Python, R, SQL
+* 📊 **Data Science:** NumPy, Pandas, Data Cleaning, EDA, Probability & Statistics
+* 🧠 **Problem-Solving:** Data Structures & Algorithms, LeetCode, HackerRank
+* 🔬 **Research Interest:** Explainable Deep Learning for Early Myocardial Infarction (MI) Risk Prediction
 * 🤝 **Leadership:** President of GENESIS — Green Neural & Synaptic Intelligence Society
-* 🎯 **Goal:** Build reliable, useful, and responsible AI systems through engineering and research
+* 🎯 **Career Goal:** Prepare for competitive AI/ML internships at Google and other leading technology companies by strengthening DSA, software engineering, machine learning, research, and project development.
 
 [![GitHub](https://img.shields.io/badge/GitHub-nahiyankadri-181717?style=for-the-badge\&logo=github)](https://github.com/nahiyankadri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/kadrilogno/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Practice-2EC866?style=for-the-badge\&logo=hackerrank\&logoColor=white)](https://www.hackerrank.com/)
 
 ---
 
 ## 🧭 What I'm Working On
 
 * Strengthening Python programming and problem-solving skills
-* Practicing Data Structures & Algorithms
-* Developing skills in data analysis and machine learning
-* Exploring interpretable AI for healthcare risk prediction
-* Improving code quality, documentation, and GitHub project organization
-* Building a portfolio focused on practical engineering and research
+* Practicing Data Structures & Algorithms through **LeetCode and HackerRank**
+* Improving algorithmic thinking, coding efficiency, and technical interview readiness
+* Developing practical skills in NumPy, Pandas, data cleaning, and exploratory data analysis
+* Building a foundation in Machine Learning and Deep Learning
+* Exploring Explainable AI for healthcare risk prediction
+* Improving code quality, Git/GitHub workflows, and project documentation
+* Preparing for **Google and other Big Tech AI/ML internship opportunities**
+* Building a project portfolio that demonstrates practical implementation and continuous technical growth
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 
@@ -39,19 +45,26 @@ I'm passionate about exploring how AI can solve real-world problems, particularl
 
 ### 📊 Data Science & Analysis
 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-2E8B57?style=flat-square)
 ![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-6C5CE7?style=flat-square)
 ![Statistics](https://img.shields.io/badge/Probability_%26_Statistics-008B8B?style=flat-square)
 
-### ⚙️ Development Tools
+### 🧠 Algorithms & Problem-Solving
+
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-00599C?style=flat-square)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square\&logo=leetcode\&logoColor=black)
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square\&logo=hackerrank\&logoColor=white)
+
+### ⚙️ Tools & Development
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square\&logo=rstudio\&logoColor=white)
 
-### 🌱 Currently Learning
+### 🌱 Currently Developing
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Learning-8A2BE2?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-Learning-8A2BE2?style=flat-square)
@@ -61,80 +74,73 @@ I'm passionate about exploring how AI can solve real-world problems, particularl
 
 ## 🚀 Featured Projects
 
-Academic projects, algorithmic problem-solving, and data analysis projects that reflect my ongoing development in programming and AI.
+My projects reflect my ongoing development in programming, algorithmic problem-solving, data analysis, and AI research.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🫀 Heart Disease EDA</h3>
-      Exploratory analysis of heart disease data to investigate patterns and relationships.
-      <br/><br/>
-      <strong>Technologies:</strong><br/>
-      Python · Pandas · Data Cleaning · EDA
-      <br/><br/>
-      <strong>Focus:</strong> Healthcare data analysis
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌍 Air Quality Analysis</h3>
-      Environmental data exploration and statistical analysis using R and RStudio.
-      <br/><br/>
-      <strong>Technologies:</strong><br/>
-      R · RStudio · Statistics
-      <br/><br/>
-      <strong>Focus:</strong> Environmental data analysis
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎒 0/1 Knapsack Problem</h3>
-      An optimization problem involving item selection under a limited capacity.
-      <br/><br/>
-      <strong>Concepts:</strong><br/>
-      Algorithms · Optimization · Dynamic Programming
-      <br/><br/>
-      <strong>Focus:</strong> Algorithmic thinking
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 Course Registration System</h3>
-      An academic registration system that validates prerequisites and enforces a 15-credit limit.
-      <br/><br/>
-      <strong>Concepts:</strong><br/>
-      Object-Oriented Programming · Validation Logic
-      <br/><br/>
-      <strong>Focus:</strong> Software design fundamentals
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧩 Quiz Game Application</h3>
-      A quiz application involving question handling, answer evaluation, and score tracking.
-      <br/><br/>
-      <strong>Concepts:</strong><br/>
-      Programming Fundamentals · Conditional Logic
-      <br/><br/>
-      <strong>Focus:</strong> Application development
-    </td>
-    <td width="50%" valign="top">
-      <h3>⏳ Countdown System</h3>
-      A programming project focused on countdown functionality and time-based logic.
-      <br/><br/>
-      <strong>Concepts:</strong><br/>
-      Programming Logic · Time-Based Functionality
-      <br/><br/>
-      <strong>Focus:</strong> Practical implementation
-    </td>
-  </tr>
-</table>
+### 🫀 1. Heart Disease Exploratory Data Analysis
 
-### 🔬 Research in Progress
+Exploring patterns and relationships in heart disease data through data cleaning and exploratory analysis.
 
-#### Explainable Deep Learning for Early Myocardial Infarction (MI) Risk Prediction
+**Technologies:** Python · Pandas · NumPy · Data Cleaning · EDA
 
-Exploring how interpretable deep learning methods could support early myocardial infarction risk prediction in high-risk populations.
+**Goal:** Strengthen data analysis skills and learn to interpret patterns in healthcare datasets.
+
+### 🌍 2. Air Quality Analysis
+
+Analyzing environmental measurements and statistical patterns using R and RStudio.
+
+**Technologies:** R · RStudio · Probability & Statistics · Data Analysis
+
+**Goal:** Apply statistical methods to environmental data.
+
+### 🎒 3. 0/1 Knapsack Problem
+
+An optimization problem involving item selection under a limited capacity constraint.
+
+**Focus:** Algorithms · Optimization · Dynamic Programming
+
+**Goal:** Strengthen algorithmic thinking and problem-solving.
+
+### 🎓 4. Course Registration & Prerequisite Validation System
+
+An academic registration system designed to validate course prerequisites and enforce a 15-credit registration limit.
+
+**Focus:** Object-Oriented Programming · Conditional Logic · Validation
+
+**Goal:** Practice structured application design and implement academic registration rules.
+
+### 🧩 5. Quiz Game Application
+
+A quiz application featuring question handling, answer evaluation, and score tracking.
+
+**Focus:** Programming Fundamentals · Conditional Logic · Score Management
+
+**Goal:** Build practical programming skills through application development.
+
+### ⏳ 6. Countdown System
+
+A programming project focused on countdown functionality and time-based logic.
+
+**Focus:** Programming Logic · Time-Based Functionality
+
+**Goal:** Practice implementing time-dependent program behavior.
+
+### 🧠 7. Data Structures & Algorithms Practice
+
+Working on algorithmic problems, including the 0/1 Knapsack problem, to improve logical reasoning and coding skills.
+
+**Practice platforms:** [LeetCode](https://leetcode.com/) · [HackerRank](https://www.hackerrank.com/)
+
+**Goal:** Progress toward solving interview-style coding problems with a strong understanding of time and space complexity.
+
+### 🔬 Research Direction — Explainable Deep Learning for Early MI Risk Prediction
+
+Exploring how interpretable deep learning methods could support early myocardial infarction (heart attack) risk prediction in high-risk populations.
 
 **Research interests:** Healthcare AI · Predictive Modeling · Deep Learning · Explainable AI
 
-*This is a developing research direction, not a completed or clinically validated system. Implementation, experiments, and findings will be documented as the work progresses.*
+*This is an ongoing research direction, not a completed or clinically validated system. Implementation, experiments, and findings will be documented as the work progresses.*
+
+> Individual project repository links, implementation details, outputs, and results will be added as projects are published and documented.
 
 ---
 
@@ -144,7 +150,27 @@ Exploring how interpretable deep learning methods could support early myocardial
 * Machine Learning for healthcare
 * Early risk prediction and predictive modeling
 * Model interpretability and reliability
-* Responsible AI and evidence-based evaluation
+* Deep Learning for healthcare applications
+* Responsible AI and evidence-based model evaluation
+
+---
+
+## 🎯 Career Objective — Google & Big Tech AI/ML Internships
+
+My goal is to become a competitive candidate for **AI/ML engineering internships at Google and other leading technology companies**.
+
+I'm building toward this goal through a structured preparation strategy:
+
+* **DSA & coding interviews:** Consistent problem-solving practice through LeetCode and HackerRank
+* **Programming fundamentals:** Strengthening Python and writing clean, efficient, maintainable code
+* **Data science:** Developing practical skills in NumPy, Pandas, data analysis, and statistics
+* **Machine learning:** Learning data preprocessing, model training, evaluation, and interpretation
+* **Projects:** Building and publishing documented, reproducible projects that demonstrate real implementation
+* **Research:** Exploring Explainable AI and healthcare-focused machine learning
+* **GitHub portfolio:** Maintaining organized repositories with clear READMEs, meaningful commits, and reproducible instructions
+* **Technical communication:** Improving the ability to explain design decisions, algorithms, and project results
+
+My aim is to strengthen these foundations through my current academic semesters and use the later semesters for deeper practice, revision, interview preparation, and internship applications.
 
 ---
 
@@ -187,12 +213,14 @@ Participated in a competitive programming community focused on problem-solving, 
 
 ## 🌱 My Engineering Goal
 
-My goal is to become an AI engineer who understands the fundamentals behind the tools I use, writes reliable code, evaluates models critically, and develops practical solutions to meaningful real-world problems.
+I aspire to become an AI engineer who understands the fundamentals behind the tools I use, writes reliable code, evaluates models critically, and develops practical solutions to meaningful real-world problems.
 
-I'm working toward this through consistent algorithm practice, hands-on projects, research exploration, leadership, and continuous improvement in software engineering and AI.
+I believe strong engineering comes from consistent practice, deep understanding, responsible research, collaboration, and the willingness to keep learning.
+
+I'm working toward this goal one algorithm, one project, and one improvement at a time.
 
 ---
 
 <p align="center">
-  <i>Learn deeply. Build consistently. Research responsibly. Create meaningful impact.</i>
+  <i>Learn deeply. Solve consistently. Build responsibly. Create meaningful impact.</i>
 </p>
